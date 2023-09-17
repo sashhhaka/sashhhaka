@@ -37,16 +37,25 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-
-
-
 </p>
+
 <!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashhhaka&show_icons=true&locale=en&layout=compact" alt="sashhhaka" /></p> 
+<img src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="GIF 1" style="display: inline-block;" width="200" />
+<img src="https://media.giphy.com/media/Pm9bQeR51FQS4OL3bU/giphy.gif" alt="GIF 2" style="display: inline-block;" width="200" />
+-->
 
+<div style="display: flex; flex-direction: row;">
+    <img src="https://media.giphy.com/media/3ohs4nsg2WyigiHYbu/giphy.gif" alt="GIF 1" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/Pm9bQeR51FQS4OL3bU/giphy.gif" alt="GIF 2" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/kaCTsvjxbNLfjGpZFN/giphy.gif" alt="GIF 3" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="GIF 4" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/3o85xDrrChm8WhGxVK/giphy.gif" alt="GIF 4" style="width: 250px;" />
+</div>
 
+<!--
+![Computer GIF](https://media.giphy.com/media/Pm9bQeR51FQS4OL3bU/giphy.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizo11&layout=compact&show_icons=true&theme=radical)](https://github.com/sashhhaka/github-readme-stats)
+<img src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif" align="right" />
 -->
 <!--
 **sashhhaka/sashhhaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
