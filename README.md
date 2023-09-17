@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🐸, I'm Sasha</h1>
 <h3 align="center">I am an Innopolis University student with interest in web development and AI. I am also curious about mathematics, robotics, neuroscience and art.</h3>
 
-- 🌱 I’m currently learning **django, react, pandas**
+- 🌱 I’m currently learning **django, pandas, react**
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <p align="left">
