@@ -1,9 +1,10 @@
 
 
 <h1 align="center">Hi 🐸, I'm Sasha</h1>
-<h3 align="center">I am an Innopolis University student with interest in web development and AI. I am also curious about mathematics, robotics, neuroscience and art.</h3>
+<h3 align="center">I am an Innopolis University student with interest in web development and AI.</h3>
 
 - 🌱 I’m currently learning **django, pandas, react**
+-  🔭 I’m also curious about **mathematics, robotics, neuroscience and art**
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <p align="left">
@@ -38,11 +39,11 @@
 
 
 </p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashhhaka&show_icons=true&locale=en&layout=compact" alt="sashhhaka" /></p> -->
-
-
-
 <!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashhhaka&show_icons=true&locale=en&layout=compact" alt="sashhhaka" /></p> 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizo11&layout=compact&show_icons=true&theme=radical)](https://github.com/sashhhaka/github-readme-stats)
 -->
 <!--
