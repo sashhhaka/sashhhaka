@@ -4,7 +4,8 @@
 <h3 align="center">I am an Innopolis University student with interest in web development and AI.</h3>
 
 - 🌱 I’m currently learning **django, pandas, react**
--  🔭 I’m also curious about **mathematics, robotics, neuroscience and art**
+<!-- -  🔭 I’m also curious about **mathematics, robotics, neuroscience and art** -->
+
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <p align="left">
