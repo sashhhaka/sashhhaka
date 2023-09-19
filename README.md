@@ -49,15 +49,16 @@
     <img src="https://media.giphy.com/media/3ohs4nsg2WyigiHYbu/giphy.gif" alt="GIF 1" style="width: 250px;" />
     <img src="https://media.giphy.com/media/Pm9bQeR51FQS4OL3bU/giphy.gif" alt="GIF 2" style="width: 250px;" />
     <img src="https://media.giphy.com/media/kaCTsvjxbNLfjGpZFN/giphy.gif" alt="GIF 3" style="width: 250px;" />
-    <img src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="GIF 4" style="width: 250px;" />
-    <img src="https://media.giphy.com/media/3o85xDrrChm8WhGxVK/giphy.gif" alt="GIF 4" style="width: 250px;" />
-    <img src="https://media.giphy.com/media/3oD3YLxau5rFE0ZpIs/giphy.gif" alt="GIF 4" style="width: 250px;" />
+    
 </div>
 
 <!--
 ![Computer GIF](https://media.giphy.com/media/Pm9bQeR51FQS4OL3bU/giphy.gif)
 
 <img src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy.gif" align="right" />
+<img src="https://media.giphy.com/media/3q3SUqPnxZGQpMNcjc/giphy.gif" alt="GIF 4" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/3o85xDrrChm8WhGxVK/giphy.gif" alt="GIF 4" style="width: 250px;" />
+    <img src="https://media.giphy.com/media/3oD3YLxau5rFE0ZpIs/giphy.gif" alt="GIF 4" style="width: 250px;" />
 -->
 <!--
 **sashhhaka/sashhhaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
