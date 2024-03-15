@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 🐸, I'm Sasha</h1>
-<h3 align="center">I am an Innopolis University student with interest in web development and AI.</h3>
+<h3 align="center">I am an Innopolis University student with interest in AI and web development.</h3>
 
 <!-- - 🌱 I’m currently learning **django, pandas, react** -->
 <!-- -  🔭 I’m also curious about **mathematics, robotics, neuroscience and art** -->
